@@ -1,0 +1,12 @@
+Moby Dick, Herman Melville, Overdue, 7/19/2021 12:00:00 AM
+Dracula, Bram Stoker, On_Shelf, 8/4/2021 12:00:00 AM
+Macbeth, William Shakespeare, On_Shelf, 8/4/2021 12:00:00 AM
+Frankenstein, Mary Shelley, Checked_Out, 8/4/2021 12:00:00 AM
+Mockingjay, Suzanne Collins, Checked_Out, 8/4/2021 12:00:00 AM
+1984, George Orwell, Checked_Out, 8/4/2021 12:00:00 AM
+Twilight, Stephenie Meyer, Checked_Out, 8/4/2021 12:00:00 AM
+Misery, Stephen King, On_Shelf, 8/3/2021 12:00:00 AM
+Room, Emma Donoghue, On_Shelf, 8/4/2021 12:00:00 AM
+The Hobbit, JRR Tolkien, On_Shelf, 7/20/2021 12:00:00 AM
+Ulysses, James Joyce, On_Shelf, 7/20/2021 12:00:00 AM
+The Outsiders, SE Hinton, Checked_Out, 8/5/2021 12:00:00 AM
